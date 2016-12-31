@@ -1,0 +1,4 @@
+= 测试blog
+:hp-image:gun.jpg
+
+测试一下

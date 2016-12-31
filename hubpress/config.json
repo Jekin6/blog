@@ -4,7 +4,13 @@
     "repositoryName": "blog",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "My blog",
+    "description": "For recording front end knowledges",
+    "cover": "https://github.com/Jekin6/blog/blob/gh-pages/images/gun.jpg"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "saga"
   }
 }

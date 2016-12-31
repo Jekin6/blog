@@ -10,7 +10,11 @@
     "cover": "https://github.com/Jekin6/blog/blob/gh-pages/images/gun.jpg",
     "postsPerPage": "15"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "109313136@qq.com",
+    "googleplus": "jekin6@gmail.com",
+    "github": "jekin6@gmail.com"
+  },
   "theme": {
     "name": "saga"
   }

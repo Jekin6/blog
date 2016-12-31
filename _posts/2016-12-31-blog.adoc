@@ -2,8 +2,8 @@
 
 == 该睡觉了
 
-:hp-image:girl-1.jpg
+:hp-image:: girl-1.jpg
 
 测试一下
 
-image::https://github.com/Jekin6/blog/blob/gh-pages/images/girl-1.jpg[]
+image::gun.jpg[]

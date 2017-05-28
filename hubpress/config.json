@@ -8,7 +8,9 @@
     "title": "My blog",
     "description": "For recording front end knowledges",
     "cover": "https://github.com/Jekin6/blog/blob/gh-pages/images/gun.jpg",
-    "postsPerPage": "15"
+    "postsPerPage": "15",
+    "googleAnalytics": "UA-99970983-1",
+    "disqus": "js-blog"
   },
   "socialnetwork": {
     "email": "109313136@qq.com",

@@ -7,6 +7,7 @@
   "site": {
     "title": "My blog",
     "description": "For recording front end knowledges",
+    "logo": "https://github.com/Jekin6/blog/blob/gh-pages/images/WechatIMG3.jpeg",
     "cover": "https://github.com/Jekin6/blog/blob/gh-pages/images/gun.jpg",
     "postsPerPage": "15",
     "googleAnalytics": "UA-99970983-1",
